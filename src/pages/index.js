@@ -1,0 +1,6 @@
+export { default as Home } from './Home'
+export { default as About } from './About'
+export { default as Clients } from './Clients'
+export { default as Candidates } from './Candidates'
+export { default as Insights } from './Insights'
+export { default as Contact } from './Contact'
